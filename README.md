@@ -68,3 +68,12 @@ termos consecutivos se aproximam da razão áurea.
 - O valor do 41° termo da Série de Fibonacci deve estar em $s2;
 - O valor do 40° termo da Série de Fibonacci deve estar em $s3;
 - O valor da razão áurea (phi) deve estar em $f0;
+
+ # Integrantes do projeto
+ 
+| Nome | GitHub |
+| ------ | ---- | ------ |
+ Pedro Carneiro de Lima | <a href="https://github.com/pedrocarneirodev"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" target="_blanck"></a> |
+Guilherme Silva Tavares | <a href="https://github.com/aSHUA0"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" target="_blanck"></a> |
+Lara Dayrell Furbino | <a href="https://github.com/Lfurbs"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" target="_blanck"></a> | 
+Breno Santana Silva | <a href="https://github.com/"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" target="_blanck"></a> |
